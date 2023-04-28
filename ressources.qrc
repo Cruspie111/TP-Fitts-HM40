@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>fitts.png</file>
+    </qresource>
+    <qresource prefix="/styles">
+        <file>style.qss</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>images/close.png</file>
+        <file>images/logo.PNG</file>
+        <file>images/restart.png</file>
+        <file>images/result.png</file>
+        <file>images/retour.png</file>
+        <file>images/start.png</file>
+    </qresource>
+</RCC>
